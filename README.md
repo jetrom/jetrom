@@ -1,6 +1,6 @@
 Hi, I’m Jens. I'm a software developer :technologist:
-- 👀 I’m interested in Java and other JVM languages (Kotlin, Clojure) and frameworks, microservices, workflow engines, Python.
-- 🌱 I’m currently learning new Java features, experiment with other languages.
+- 👀 I’m interested in Java :coffee: and other JVM languages (Kotlin, Clojure), Python :snake:, container 🐳 and Kubernetes, microservices, workflow engines.
+- 🌱 I’m currently learning more about container and Kubernetes, containerized applications.
 
 <!-- - 📫 How to reach me ... -->
 
